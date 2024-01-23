@@ -7,7 +7,7 @@ set -g fish_greeting
 # To set nice prompt messages
 function fish_prompt
     set_color cyan
-    echo "zocsaa@ ~> "
+    echo "zocasa@ ~> "
 end
 
 set -g fish_prompt_pwd_dir_length 0
