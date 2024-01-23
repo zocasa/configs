@@ -1,3 +1,5 @@
+" Source the file inside ViM itself ':source ~/.vimrc'
+
 " Disable compatibility with Vi
 set nocompatible
 
